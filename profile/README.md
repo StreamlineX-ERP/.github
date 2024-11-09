@@ -1,12 +1,30 @@
-## Hi there 👋
+# StreamlineX - 통합 ERP 솔루션
 
-<!--
+**StreamlineX**는 기업의 다양한 업무를 통합하여 효율적인 운영을 돕는 ERP(Enterprise Resource Planning) 솔루션입니다. **StreamlineX**는 데이터를 하나의 플랫폼으로 연결하고, 비즈니스 프로세스를 최적화하여 실시간 분석, 향상된 협업 및 자동화를 제공합니다. 이 솔루션은 모든 규모의 기업에 적합하며, 업무 흐름을 간소화하고 생산성을 극대화하는 데 도움을 줍니다.
 
-**Here are some ideas to get you started:**
+## 주요 기능
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **업무 통합**: 재무, 인사, 생산, 물류, 고객 관리 등 모든 업무를 하나의 시스템에서 관리
+- **실시간 데이터 분석**: 실시간으로 데이터를 분석하고 인사이트를 제공하여 빠르고 정확한 의사결정 지원
+- **자동화된 프로세스**: 반복적인 업무를 자동화하여 효율성을 극대화
+- **사용자 맞춤형 대시보드**: 직관적인 대시보드로 비즈니스 활동을 한눈에 파악
+- **클라우드 기반**: 언제 어디서나 접근 가능하고, 데이터 보안이 강화된 클라우드 인프라
+- **모바일 호환성**: 스마트폰과 태블릿에서도 원활하게 사용할 수 있는 모바일 최적화 지원
+
+## 기술 스택
+
+- **Spring Boot**: RESTful API 서버 구축, 비즈니스 로직 처리
+- **Spring Security**: 인증 및 권한 관리
+- **Thymeleaf**: 서버 측 렌더링을 위한 템플릿 엔진
+- **JPA / Hibernate**: 데이터베이스와의 상호작용
+- **MySQL / PostgreSQL**: 데이터베이스 관리 시스템
+- **Apache Kafka**: 비동기 이벤트 처리 및 데이터 스트리밍
+- **Docker**: 컨테이너화된 환경에서의 배포
+
+## 설치 방법
+
+### 필수 사항
+
+- **Java 17** 이상 (LTS 버전 권장)
+- **Maven** 또는 **Gradle** (프로젝트 빌드 도구)
+- **MySQL** 또는 **PostgreSQL** 데이터베이스
