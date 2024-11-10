@@ -1,4 +1,4 @@
-# StreamlineX - 통합 ERP 솔루션
+# StreamlineX - 비즈니스 통합 ERP 솔루션
 
 **StreamlineX**는 기업의 다양한 업무를 통합하여 효율적인 운영을 돕는 ERP(Enterprise Resource Planning) 솔루션입니다. **StreamlineX**는 데이터를 하나의 플랫폼으로 연결하고, 비즈니스 프로세스를 최적화하여 실시간 분석, 향상된 협업 및 자동화를 제공합니다. 이 솔루션은 모든 규모의 기업에 적합하며, 업무 흐름을 간소화하고 생산성을 극대화하는 데 도움을 줍니다.
 
